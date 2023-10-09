@@ -1,5 +1,3 @@
-- Hi, I’m Kittapas Changpan
-- I’m interested in Software Tester...
-- I’m currently learning Automation for Software Tester...
+- Let's me do something
 
 
